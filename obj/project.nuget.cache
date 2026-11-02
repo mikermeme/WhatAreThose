@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o+NFi9oPEro=",
+  "success": true,
+  "projectFilePath": "D:\\Codex\\Valheim\\WhatAreThose\\WhatAreThose.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\me\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\me\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

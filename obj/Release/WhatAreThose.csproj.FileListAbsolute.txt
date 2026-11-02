@@ -1,0 +1,7 @@
+D:\Codex\Valheim\WhatAreThose\obj\Release\WhatAreThose.csproj.AssemblyReference.cache
+D:\Codex\Valheim\WhatAreThose\obj\Release\WhatAreThose.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codex\Valheim\WhatAreThose\obj\Release\WhatAreThose.csproj.CoreCompileInputs.cache
+D:\Codex\Valheim\WhatAreThose\bin\Release\WhatAreThose.dll
+D:\Codex\Valheim\WhatAreThose\bin\Release\WhatAreThose.pdb
+D:\Codex\Valheim\WhatAreThose\obj\Release\WhatAreThose.dll
+D:\Codex\Valheim\WhatAreThose\obj\Release\WhatAreThose.pdb
